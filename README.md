@@ -1,4 +1,4 @@
-#Image Classification Report  
+Image Classification Report  
   
 Introduction  
 This report offers a detailed overview of creating and assessing a model for identifying five sports personalities: Lionel Messi, Maria Sharapova, Roger Federer, Virat Kohli, and Serena Williams. The model uses a Convolutional Neural Network (CNN) design and is trained on a dataset of pictures specifically cropped to showcase these sports figures. 
